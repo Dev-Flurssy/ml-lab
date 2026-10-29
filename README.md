@@ -1,8 +1,8 @@
 # ML-Studio
 
-Hello viewers! 👋
+Hi there! 
 
- am **Flurssy**, and welcome to this repository.
+I am **Flurssy**, and welcome to this repository.
 
 This repository is my AI/ML playground where I practice, experiment, build mini AI models, and strengthen my Machine Learning and Artificial Intelligence skills.
 
